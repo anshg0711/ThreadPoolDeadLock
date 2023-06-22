@@ -1,0 +1,23 @@
+
+v
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í­£‰8¹Ãæ”Ž1
+7
+java:S1220""Move this file to a named package.8¬Žå”Ž1
+r
+java:S2095Y"PUse try-with-resources or close this "ThreadPoolExecutor" in a "finally" clause.(«²ó€úÿÿÿÿ8ÃÃæ”Ž1
+j
+java:S2095W"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(¢Ž¥ë8ÃÃæ”Ž1
+Z
+java:S1854\"8Remove this useless assignment to local variable "ansh".(‹ù‚¹ùÿÿÿÿ8ÅÃæ”Ž1
+Y
+java:S1854W"<Remove this useless assignment to local variable "executor".(¢Ž¥ë8ÅÃæ”Ž1
+Ž
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8±Žå”Ž1
+]	java:S125"<This block of commented-out lines of code should be removed.(ýå©¹üÿÿÿÿ8²Žå”Ž1
+X	java:S125"<This block of commented-out lines of code should be removed.(¸¶Ú¹8´Žå”Ž1
+{
+java:S2142K"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8´Žå”Ž1
+J
+java:S1481W"-Remove this unused "executor" local variable.(¢Ž¥ë8ÈÃæ”Ž1
+K
+java:S1481\")Remove this unused "ansh" local variable.(‹ù‚¹ùÿÿÿÿ8ÊÃæ”Ž1
